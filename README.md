@@ -9,9 +9,6 @@ Este é um projeto simples que simula uma tela de cadastro de usuários, desenvo
 - Vite
 - CSS
 - Axios
-- Express
-- Prisma
-- MongoDB
 
 ## 📦 Instalação
 
