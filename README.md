@@ -38,4 +38,5 @@ Este é um projeto simples que simula uma tela de cadastro de usuários, desenvo
 
 
 ## 🔗 Back-end
-O back-end desse projeto foi desenvolvido com Node.js, Express, prisma e MongoDB e está disponível aqui (se já subiu para o GitHub).
+O back-end desse projeto foi desenvolvido com Node.js, Express, prisma e MongoDB e está disponível aqui:
+https://github.com/fabricyovm/api-cadastro-usuarios
